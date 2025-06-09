@@ -10,8 +10,8 @@ Currently working on a C# project for managing a music school.
 
 ## 🧰 Skills
 
-- **Languages:** C#, Java, Python, C++, JavaScript  
-- **Technologies:** .NET, SQL, Linux, REST APIs, SMTP  
+- **Languages:** C#, Java, Python, C++, JavaScript, Node.JS  
+- **Technologies:** .NET, SQL, Linux, REST APIs, SMTP, Mongo_DB
 - **Concepts:** OOP, Data Structures, Operating Systems, Networking
 
 ---
