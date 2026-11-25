@@ -1,6 +1,6 @@
 # Hi, I'm Naama Sardes 👋
 
-🎓 **Junior Software Developer** | 🚀 **Fast Learner** | 💻 **Passionate about clean, efficient code**
+🎓 **Software Developer** | 🚀 **Fast Learner** | 💻 **Passionate about clean, efficient code**
 
 I'm a software engineering graduate with experience in C#, Java, Python, and full-stack development.  
 Familiar with operating systems, networking, and software design patterns.  
