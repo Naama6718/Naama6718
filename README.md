@@ -1,4 +1,4 @@
-# Hi, I'm Naama Saadon 👋
+# Hi, I'm Naama Sardes 👋
 
 🎓 **Junior Software Developer** | 🚀 **Fast Learner** | 💻 **Passionate about clean, efficient code**
 
